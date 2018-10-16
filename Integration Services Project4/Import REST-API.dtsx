@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Import REST-API"
   DTS:PackageType="5"
-  DTS:VersionBuild="48"
-  DTS:VersionGUID="{A34514AF-A3CC-455D-B357-CF3927445C6D}">
+  DTS:VersionBuild="54"
+  DTS:VersionGUID="{542EE36B-D17B-4FBC-9D3B-28E612FAA573}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -39,11 +39,11 @@
             <DTS:Property
               DTS:Name="ServerPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAK/EeDqeuEkixmSZ6QuVUzAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA4iOh5eSELDlXSCmrN2qxAVzVf6Brbpt++HYo306ZSxwAAAAAOgAAAAAIAACAAAAD5dONltfxasaDKgaYXshKuDEyF0yCldvtq/7BjZz01hRAAAAB+n9TCdBRPavY+uKSa+mEYQAAAAAXXk73AquqVNzRynwYZTejXiFvsRNdonjn73KbgmCgS0ndikaS3/JtGuRRfa3goa8loAWesPYBApFO+kWNfpQU</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAK/EeDqeuEkixmSZ6QuVUzAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABlMYkym092OJX9uSJBFuCiHtz81vfddlpUJ+b9saiSCQAAAAAOgAAAAAIAACAAAAA9ZuUxD18hhvVNK5276dDpWiGufFmuqwcRnk1wj10gIBAAAAAWeVt2/sZYhzdJbiPNQBDWQAAAAF8kuRK0HvrfkU7wlVQodSaSFCUdZZorOQwnP8KL2TyX9+HF95KURwImwMcxfshfcesNaAbMLsJlQQ961lHjyqk</DTS:Property>
             <DTS:Property
               DTS:Name="ProxyPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAK/EeDqeuEkixmSZ6QuVUzAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAjO4j6wQuYSbUTglsV1a99Iu5PcW9CccEoL3hgqgiLXwAAAAAOgAAAAAIAACAAAABZAIx3exDE4t5llwHkTYdTPiwHmphTvnTn96+bR57/MRAAAAD6YgheaUNWH+LEGIVe4sGwQAAAAPjEF75CjfzspQTxon56v1ftKQfq7RJATDerWAeMpOacQsUkoPNfLj2jSuCIdQdfEPr7SJPZsC9QyfB90DvL7Ow</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAK/EeDqeuEkixmSZ6QuVUzAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAIfGOjMALOxyMFAeS+ppT8J4fPqvHBVlG7dmDyQ49VhAAAAAAOgAAAAAIAACAAAAAVeuTc5qoYgaFIvXjSBPk9o8PMOiSycSw79HrW+PNz9hAAAACuZeAYh79qUrBLMCFt9TpMQAAAANtbtmx/xopP/mIVRwlLEzFrThPhvPUzav8v3VxT9dHpWR1OZMu891iS7DtEO4RsHTqVgU4lH98b0pXBAYy+SVw</DTS:Property>
           </DTS:HttpConnection>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
@@ -1258,7 +1258,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAK/EeDqeuEkixmSZ6QuVUzAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACHeuXwZ1N6prGyRbfLwWysdrHg4hwAZ7EgzuVoG5HlhwAAAAAOgAAAAAIAACAAAAA2U1IyUOazflJ9Ck8t4iWYJPfytRiLNW1Yg9wcZ33IyCAAAAApTNjQaTh29s7/+zx7oicP5Ot9dHKlLkGXc4Un5HQxq0AAAAC+BsHdHRi40D9Tc4OPi5OCLRaNoobhnCEfb8LdfmJhnRycu11ZGCELghsMRjA1xgfpgPhdENs5ACMX+O5S92yI</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAK/EeDqeuEkixmSZ6QuVUzAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACOXf92h6/oSHcSN51+mWXDqgfzEBVWFzwg5KwKOBPqRgAAAAAOgAAAAAIAACAAAAB5bU7QtheaMMmRSD7Hlhj5LyocHX0BlMbtIMh8il6kTCAAAADQRLcD8+RzqLRUomyckhomyo07XlF+BZO0sd1W+pUqYkAAAABY6m/fB599l+2zN5bVkD4mYJIvu3SWnEJx1pLzr1R+vzlacGBmDUfCmoKD5S+WNDQzCNwS8GS/MjQi2kas6+of</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -1273,7 +1273,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAK/EeDqeuEkixmSZ6QuVUzAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACJE0lgr5Oh9+tKFT12ba7XWcU9TR/BR50U8+KfLm89CgAAAAAOgAAAAAIAACAAAADcPSvlk3Szfr6E0frTSA/jdC/D3ziDEYr1xynoKKUHCSAAAADJw8obV7MsplOwt13L4W+BZucHcpQLdoRGgmb1cpqPeEAAAABFo33CHyGOYoOqM5JSMjQRSsMMK4e+DSHqJN7T7A34xwStLFbZ1aptELjGMWxz726MdVADCSCGf4YU8ef8CasI</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAK/EeDqeuEkixmSZ6QuVUzAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADJuv4FkV73O/pmfb8KPM7gR9Do4gkjOyTEuVLZUKqxHAAAAAAOgAAAAAIAACAAAABs3Jy0ezpgwNqoMcVEt38EAN2EEpa0EHTsZ5q3mwenniAAAABGWiqQLlnrSUl74DUotk2hiUXqJT21fJf5v9plKz85jEAAAAAtLN0NI6Nou9uD4RVpWWlmynVt14ebcTmVqP6V37iNulYnhviomNToE7dJ6j/m0DUC6/P4+dtcWfQSKB2ph8ux</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -1342,11 +1342,11 @@
           version="1">
           <components>
             <component
-              refId="Package\Campaigns REST-API\ADO NET Destination"
+              refId="Package\Campaigns REST-API\Campaign"
               componentClassID="Microsoft.ManagedComponentHost"
               contactInfo="Loads data into an ADO.NET-compliant database that uses a database table or view. Load data into a new or existing table. For example, use an ADO.NET provider for ODBC to load data into an ODBC destination.;Microsoft Corporation; Microsoft SQL Server; © Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;2"
               description="Loads data into an ADO.NET-compliant database that uses a database table or view. Load data into a new or existing table. For example, use an ADO.NET provider for ODBC to load data into an ODBC destination."
-              name="ADO NET Destination"
+              name="Campaign"
               usesDispositions="true"
               version="2">
               <properties>
@@ -1355,7 +1355,7 @@
                   description="The Destination database table name."
                   expressionType="Notify"
                   name="TableOrViewName"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">"FileBox"</property>
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">"Campaign"</property>
                 <property
                   dataType="System.Int32"
                   description="Specify the number of rows per batch. The default is 0 which uses the same size as SSIS internal buffer. "
@@ -1377,7 +1377,7 @@
               </properties>
               <connections>
                 <connection
-                  refId="Package\Campaigns REST-API\ADO NET Destination.Connections[IDbConnection]"
+                  refId="Package\Campaigns REST-API\Campaign.Connections[IDbConnection]"
                   connectionManagerID="Package.ConnectionManagers[tsp2.database.windows.net.tsp.tsp2-011]"
                   connectionManagerRefId="Package.ConnectionManagers[tsp2.database.windows.net.tsp.tsp2-011]"
                   description="Managed connection manager"
@@ -1385,190 +1385,1141 @@
               </connections>
               <inputs>
                 <input
-                  refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input]"
+                  refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input]"
                   errorRowDisposition="FailComponent"
                   hasSideEffects="true"
                   name="ADO NET Destination Input">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].Columns[_JSON]"
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].Columns[_JSON]"
                       cachedDataType="nText"
                       cachedName="_JSON"
-                      externalMetadataColumnId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[_JSON]"
-                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[items].Columns[_JSON]" />
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[_JSON]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[Root].Columns[_JSON]" />
                     <inputColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].Columns[_RowIndex]"
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].Columns[_RowIndex]"
                       cachedDataType="i4"
                       cachedName="_RowIndex"
-                      externalMetadataColumnId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[_RowIndex]"
-                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[items].Columns[_RowIndex]" />
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[_RowIndex]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[Root].Columns[_RowIndex]" />
                     <inputColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].Columns[category]"
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].Columns[error_message]"
                       cachedDataType="wstr"
-                      cachedLength="40"
-                      cachedName="category"
-                      externalMetadataColumnId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[category]"
-                      lineageId="Package\Campaigns REST-API\907:invalid" />
+                      cachedLength="255"
+                      cachedName="error_message"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[error_message]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[Root].Columns[error_message]" />
                     <inputColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].Columns[id]"
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].Columns[date_created]"
+                      cachedDataType="dbDate"
+                      cachedName="date_created"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[date_created]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[Root].Columns[date_created]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].Columns[name]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="name"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[name]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[Root].Columns[name]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].Columns[active_contact_count]"
+                      cachedDataType="i8"
+                      cachedName="active_contact_count"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[active_contact_count]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[Root].Columns[active_contact_count]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].Columns[completed_contact_count]"
+                      cachedDataType="i8"
+                      cachedName="completed_contact_count"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[completed_contact_count]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[Root].Columns[completed_contact_count]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].Columns[published_status]"
+                      cachedDataType="bool"
+                      cachedName="published_status"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[published_status]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[Root].Columns[published_status]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].Columns[id]"
                       cachedDataType="i8"
                       cachedName="id"
-                      externalMetadataColumnId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[id]"
-                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[items].Columns[id]" />
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[id]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[Root].Columns[id]" />
                     <inputColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].Columns[date_created]"
-                      cachedDataType="dbTimeStamp"
-                      cachedName="date_created"
-                      externalMetadataColumnId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[date_created]"
-                      lineageId="Package\Campaigns REST-API\909:invalid" />
-                    <inputColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].Columns[last_updated]"
-                      cachedDataType="dbTimeStamp"
-                      cachedName="last_updated"
-                      externalMetadataColumnId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[last_updated]"
-                      lineageId="Package\Campaigns REST-API\910:invalid" />
-                    <inputColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].Columns[file_name]"
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].Columns[published_time_zone]"
                       cachedDataType="wstr"
-                      cachedLength="255"
-                      cachedName="file_name"
-                      externalMetadataColumnId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[file_name]"
-                      lineageId="Package\Campaigns REST-API\911:invalid" />
+                      cachedLength="100"
+                      cachedName="published_time_zone"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[published_time_zone]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[Root].Columns[published_time_zone]" />
                     <inputColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].Columns[file_size]"
-                      cachedDataType="i4"
-                      cachedName="file_size"
-                      externalMetadataColumnId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[file_size]"
-                      lineageId="Package\Campaigns REST-API\912:invalid" />
-                    <inputColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].Columns[created_by]"
-                      cachedDataType="i4"
-                      cachedName="created_by"
-                      externalMetadataColumnId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[created_by]"
-                      lineageId="Package\Campaigns REST-API\913:invalid" />
-                    <inputColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].Columns[public]"
-                      cachedDataType="bool"
-                      cachedName="public"
-                      externalMetadataColumnId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[public]"
-                      lineageId="Package\Campaigns REST-API\914:invalid" />
-                    <inputColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].Columns[contact_id]"
-                      cachedDataType="i4"
-                      cachedName="contact_id"
-                      externalMetadataColumnId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[contact_id]"
-                      lineageId="Package\Campaigns REST-API\915:invalid" />
-                    <inputColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].Columns[remote_file_key]"
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].Columns[time_zone]"
                       cachedDataType="wstr"
-                      cachedLength="40"
-                      cachedName="remote_file_key"
-                      externalMetadataColumnId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[remote_file_key]"
-                      lineageId="Package\Campaigns REST-API\916:invalid" />
+                      cachedLength="100"
+                      cachedName="time_zone"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[time_zone]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[Root].Columns[time_zone]" />
                     <inputColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].Columns[download_url]"
-                      cachedDataType="wstr"
-                      cachedLength="255"
-                      cachedName="download_url"
-                      externalMetadataColumnId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[download_url]"
-                      lineageId="Package\Campaigns REST-API\917:invalid" />
-                    <inputColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].Columns[file_box_type]"
-                      cachedDataType="wstr"
-                      cachedLength="40"
-                      cachedName="file_box_type"
-                      externalMetadataColumnId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[file_box_type]"
-                      lineageId="Package\Campaigns REST-API\918:invalid" />
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].Columns[published_date]"
+                      cachedDataType="dbDate"
+                      cachedName="published_date"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[published_date]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[Root].Columns[published_date]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
                     <externalMetadataColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[_JSON]"
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[_JSON]"
                       dataType="wstr"
                       length="2147483647"
                       name="_JSON" />
                     <externalMetadataColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[_RowIndex]"
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[_RowIndex]"
                       dataType="i4"
                       name="_RowIndex" />
                     <externalMetadataColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[category]"
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[error_message]"
                       dataType="wstr"
-                      length="40"
-                      name="category" />
+                      length="255"
+                      name="error_message" />
                     <externalMetadataColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[id]"
-                      dataType="i4"
-                      name="id" />
-                    <externalMetadataColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[date_created]"
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[date_created]"
                       dataType="dbTimeStamp"
                       name="date_created" />
                     <externalMetadataColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[last_updated]"
-                      dataType="dbTimeStamp"
-                      name="last_updated" />
-                    <externalMetadataColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[file_name]"
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[name]"
                       dataType="wstr"
-                      length="255"
-                      name="file_name" />
+                      length="100"
+                      name="name" />
                     <externalMetadataColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[file_size]"
-                      dataType="i4"
-                      name="file_size" />
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[active_contact_count]"
+                      dataType="i8"
+                      name="active_contact_count" />
                     <externalMetadataColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[created_by]"
-                      dataType="i4"
-                      name="created_by" />
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[completed_contact_count]"
+                      dataType="i8"
+                      name="completed_contact_count" />
                     <externalMetadataColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[public]"
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[published_status]"
                       dataType="bool"
-                      name="public" />
+                      name="published_status" />
                     <externalMetadataColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[contact_id]"
-                      dataType="i4"
-                      name="contact_id" />
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[id]"
+                      dataType="i8"
+                      name="id" />
                     <externalMetadataColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[remote_file_key]"
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[published_time_zone]"
                       dataType="wstr"
-                      length="40"
-                      name="remote_file_key" />
+                      length="100"
+                      name="published_time_zone" />
                     <externalMetadataColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[download_url]"
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[time_zone]"
                       dataType="wstr"
-                      length="255"
-                      name="download_url" />
+                      length="100"
+                      name="time_zone" />
                     <externalMetadataColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[file_box_type]"
-                      dataType="wstr"
-                      length="40"
-                      name="file_box_type" />
+                      refId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input].ExternalColumns[published_date]"
+                      dataType="dbTimeStamp"
+                      name="published_date" />
                   </externalMetadataColumns>
                 </input>
               </inputs>
               <outputs>
                 <output
-                  refId="Package\Campaigns REST-API\ADO NET Destination.Outputs[ADO NET Destination Error Output]"
+                  refId="Package\Campaigns REST-API\Campaign.Outputs[ADO NET Destination Error Output]"
                   exclusionGroup="1"
                   isErrorOut="true"
                   name="ADO NET Destination Error Output"
-                  synchronousInputId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input]">
+                  synchronousInputId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input]">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
+                      refId="Package\Campaigns REST-API\Campaign.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
                       dataType="i4"
-                      lineageId="Package\Campaigns REST-API\ADO NET Destination.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
+                      lineageId="Package\Campaigns REST-API\Campaign.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
                       name="ErrorCode"
                       specialFlags="1" />
                     <outputColumn
-                      refId="Package\Campaigns REST-API\ADO NET Destination.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
+                      refId="Package\Campaigns REST-API\Campaign.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
                       dataType="i4"
-                      lineageId="Package\Campaigns REST-API\ADO NET Destination.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
+                      lineageId="Package\Campaigns REST-API\Campaign.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                   </outputColumns>
                   <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Campaigns REST-API\Campaign_Goal"
+              componentClassID="Microsoft.ManagedComponentHost"
+              contactInfo="Loads data into an ADO.NET-compliant database that uses a database table or view. Load data into a new or existing table. For example, use an ADO.NET provider for ODBC to load data into an ODBC destination.;Microsoft Corporation; Microsoft SQL Server; © Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;2"
+              description="Loads data into an ADO.NET-compliant database that uses a database table or view. Load data into a new or existing table. For example, use an ADO.NET provider for ODBC to load data into an ODBC destination."
+              name="Campaign_Goal"
+              usesDispositions="true"
+              version="2">
+              <properties>
+                <property
+                  dataType="System.String"
+                  description="The Destination database table name."
+                  expressionType="Notify"
+                  name="TableOrViewName"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">"Campaign_Goal"</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specify the number of rows per batch. The default is 0 which uses the same size as SSIS internal buffer. "
+                  expressionType="Notify"
+                  name="BatchSize">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out. A value of 0 indicates infinite time-out. "
+                  expressionType="Notify"
+                  name="CommandTimeout">30</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Specifies whether to use the SqlBulkCopy interface to improve the performance of bulk insert operations. Only certain providers support this interface."
+                  expressionType="Notify"
+                  name="UseBulkInsertWhenPossible">true</property>
+                <property
+                  dataType="System.String"
+                  name="UserComponentTypeName">Microsoft.ADONETDestination</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Campaigns REST-API\Campaign_Goal.Connections[IDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[tsp2.database.windows.net.tsp.tsp2-011]"
+                  connectionManagerRefId="Package.ConnectionManagers[tsp2.database.windows.net.tsp.tsp2-011]"
+                  description="Managed connection manager"
+                  name="IDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input]"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="ADO NET Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].Columns[_JSON]"
+                      cachedDataType="nText"
+                      cachedName="_JSON"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].ExternalColumns[_JSON]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[goals].Columns[_JSON]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].Columns[_RowIndex]"
+                      cachedDataType="i4"
+                      cachedName="_RowIndex"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].ExternalColumns[_RowIndex]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[goals].Columns[_RowIndex]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].Columns[_ParentKeyField]"
+                      cachedDataType="i4"
+                      cachedName="_ParentKeyField"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].ExternalColumns[_ParentKeyField]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[goals].Columns[_ParentKeyField]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].Columns[id]"
+                      cachedDataType="i8"
+                      cachedName="id"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].ExternalColumns[id]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[goals].Columns[id]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].Columns[name]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="name"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].ExternalColumns[name]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[goals].Columns[name]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].Columns[type]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="type"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].ExternalColumns[type]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[goals].Columns[type]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].Columns[historical_contact_counts.24_hours]"
+                      cachedDataType="i8"
+                      cachedName="historical_contact_counts.24_hours"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].ExternalColumns[historical_contact_counts.24_hours]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[goals].Columns[historical_contact_counts.24_hours]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].Columns[historical_contact_counts.30_days]"
+                      cachedDataType="i8"
+                      cachedName="historical_contact_counts.30_days"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].ExternalColumns[historical_contact_counts.30_days]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[goals].Columns[historical_contact_counts.30_days]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].ExternalColumns[_JSON]"
+                      dataType="wstr"
+                      length="2147483647"
+                      name="_JSON" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].ExternalColumns[_RowIndex]"
+                      dataType="i4"
+                      name="_RowIndex" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].ExternalColumns[_ParentKeyField]"
+                      dataType="i4"
+                      name="_ParentKeyField" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].ExternalColumns[id]"
+                      dataType="i8"
+                      name="id" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].ExternalColumns[name]"
+                      dataType="wstr"
+                      length="100"
+                      name="name" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].ExternalColumns[type]"
+                      dataType="wstr"
+                      length="100"
+                      name="type" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].ExternalColumns[historical_contact_counts.24_hours]"
+                      dataType="i8"
+                      name="historical_contact_counts.24_hours" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input].ExternalColumns[historical_contact_counts.30_days]"
+                      dataType="i8"
+                      name="historical_contact_counts.30_days" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Campaigns REST-API\Campaign_Goal.Outputs[ADO NET Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="ADO NET Destination Error Output"
+                  synchronousInputId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Goal.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Campaigns REST-API\Campaign_Goal.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Goal.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Campaigns REST-API\Campaign_Goal.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Campaigns REST-API\Campaign_Item"
+              componentClassID="Microsoft.ManagedComponentHost"
+              contactInfo="Loads data into an ADO.NET-compliant database that uses a database table or view. Load data into a new or existing table. For example, use an ADO.NET provider for ODBC to load data into an ODBC destination.;Microsoft Corporation; Microsoft SQL Server; © Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;2"
+              description="Loads data into an ADO.NET-compliant database that uses a database table or view. Load data into a new or existing table. For example, use an ADO.NET provider for ODBC to load data into an ODBC destination."
+              name="Campaign_Item"
+              usesDispositions="true"
+              version="2">
+              <properties>
+                <property
+                  dataType="System.String"
+                  description="The Destination database table name."
+                  expressionType="Notify"
+                  name="TableOrViewName"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">Campaign_Item</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specify the number of rows per batch. The default is 0 which uses the same size as SSIS internal buffer. "
+                  expressionType="Notify"
+                  name="BatchSize">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out. A value of 0 indicates infinite time-out. "
+                  expressionType="Notify"
+                  name="CommandTimeout">30</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Specifies whether to use the SqlBulkCopy interface to improve the performance of bulk insert operations. Only certain providers support this interface."
+                  expressionType="Notify"
+                  name="UseBulkInsertWhenPossible">true</property>
+                <property
+                  dataType="System.String"
+                  name="UserComponentTypeName">Microsoft.ADONETDestination</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Campaigns REST-API\Campaign_Item.Connections[IDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[tsp2.database.windows.net.tsp.tsp2-011]"
+                  connectionManagerRefId="Package.ConnectionManagers[tsp2.database.windows.net.tsp.tsp2-011]"
+                  description="Managed connection manager"
+                  name="IDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input]"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="ADO NET Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].Columns[_JSON]"
+                      cachedDataType="nText"
+                      cachedName="_JSON"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].ExternalColumns[_JSON]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[items].Columns[_JSON]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].Columns[_RowIndex]"
+                      cachedDataType="i4"
+                      cachedName="_RowIndex"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].ExternalColumns[_RowIndex]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[items].Columns[_RowIndex]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].Columns[_ParentKeyField]"
+                      cachedDataType="i4"
+                      cachedName="_ParentKeyField"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].ExternalColumns[_ParentKeyField]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[items].Columns[_ParentKeyField]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].Columns[id]"
+                      cachedDataType="i8"
+                      cachedName="id"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].ExternalColumns[id]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[items].Columns[id]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].Columns[name]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="name"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].ExternalColumns[name]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[items].Columns[name]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].Columns[type]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="type"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].ExternalColumns[type]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[items].Columns[type]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].Columns[next_item_id]"
+                      cachedDataType="i8"
+                      cachedName="next_item_id"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].ExternalColumns[next_item_id]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[items].Columns[next_item_id]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].Columns[previous_item_id]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="previous_item_id"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].ExternalColumns[previous_item_id]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[items].Columns[previous_item_id]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].ExternalColumns[_JSON]"
+                      dataType="wstr"
+                      length="2147483647"
+                      name="_JSON" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].ExternalColumns[_RowIndex]"
+                      dataType="i4"
+                      name="_RowIndex" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].ExternalColumns[_ParentKeyField]"
+                      dataType="i4"
+                      name="_ParentKeyField" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].ExternalColumns[id]"
+                      dataType="i8"
+                      name="id" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].ExternalColumns[name]"
+                      dataType="wstr"
+                      length="100"
+                      name="name" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].ExternalColumns[type]"
+                      dataType="wstr"
+                      length="100"
+                      name="type" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].ExternalColumns[next_item_id]"
+                      dataType="i8"
+                      name="next_item_id" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input].ExternalColumns[previous_item_id]"
+                      dataType="wstr"
+                      length="255"
+                      name="previous_item_id" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Campaigns REST-API\Campaign_Item.Outputs[ADO NET Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="ADO NET Destination Error Output"
+                  synchronousInputId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Item.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Campaigns REST-API\Campaign_Item.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Item.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Campaigns REST-API\Campaign_Item.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Campaigns REST-API\Campaign_Path"
+              componentClassID="Microsoft.ManagedComponentHost"
+              contactInfo="Loads data into an ADO.NET-compliant database that uses a database table or view. Load data into a new or existing table. For example, use an ADO.NET provider for ODBC to load data into an ODBC destination.;Microsoft Corporation; Microsoft SQL Server; © Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;2"
+              description="Loads data into an ADO.NET-compliant database that uses a database table or view. Load data into a new or existing table. For example, use an ADO.NET provider for ODBC to load data into an ODBC destination."
+              name="Campaign_Path"
+              usesDispositions="true"
+              version="2">
+              <properties>
+                <property
+                  dataType="System.String"
+                  description="The Destination database table name."
+                  expressionType="Notify"
+                  name="TableOrViewName"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">"Campaign_Path"</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specify the number of rows per batch. The default is 0 which uses the same size as SSIS internal buffer. "
+                  expressionType="Notify"
+                  name="BatchSize">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out. A value of 0 indicates infinite time-out. "
+                  expressionType="Notify"
+                  name="CommandTimeout">30</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Specifies whether to use the SqlBulkCopy interface to improve the performance of bulk insert operations. Only certain providers support this interface."
+                  expressionType="Notify"
+                  name="UseBulkInsertWhenPossible">true</property>
+                <property
+                  dataType="System.String"
+                  name="UserComponentTypeName">Microsoft.ADONETDestination</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Campaigns REST-API\Campaign_Path.Connections[IDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[tsp2.database.windows.net.tsp.tsp2-011]"
+                  connectionManagerRefId="Package.ConnectionManagers[tsp2.database.windows.net.tsp.tsp2-011]"
+                  description="Managed connection manager"
+                  name="IDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Campaigns REST-API\Campaign_Path.Inputs[ADO NET Destination Input]"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="ADO NET Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Path.Inputs[ADO NET Destination Input].Columns[_JSON]"
+                      cachedDataType="nText"
+                      cachedName="_JSON"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Path.Inputs[ADO NET Destination Input].ExternalColumns[_JSON]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[paths].Columns[_JSON]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Path.Inputs[ADO NET Destination Input].Columns[_RowIndex]"
+                      cachedDataType="i4"
+                      cachedName="_RowIndex"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Path.Inputs[ADO NET Destination Input].ExternalColumns[_RowIndex]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[paths].Columns[_RowIndex]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Path.Inputs[ADO NET Destination Input].Columns[_ParentKeyField]"
+                      cachedDataType="i4"
+                      cachedName="_ParentKeyField"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Path.Inputs[ADO NET Destination Input].ExternalColumns[_ParentKeyField]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[paths].Columns[_ParentKeyField]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Path.Inputs[ADO NET Destination Input].Columns[id]"
+                      cachedDataType="i8"
+                      cachedName="id"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Path.Inputs[ADO NET Destination Input].ExternalColumns[id]"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[paths].Columns[id]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Path.Inputs[ADO NET Destination Input].ExternalColumns[_JSON]"
+                      dataType="wstr"
+                      length="2147483647"
+                      name="_JSON" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Path.Inputs[ADO NET Destination Input].ExternalColumns[_RowIndex]"
+                      dataType="i4"
+                      name="_RowIndex" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Path.Inputs[ADO NET Destination Input].ExternalColumns[_ParentKeyField]"
+                      dataType="i4"
+                      name="_ParentKeyField" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Path.Inputs[ADO NET Destination Input].ExternalColumns[id]"
+                      dataType="i8"
+                      name="id" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Campaigns REST-API\Campaign_Path.Outputs[ADO NET Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="ADO NET Destination Error Output"
+                  synchronousInputId="Package\Campaigns REST-API\Campaign_Path.Inputs[ADO NET Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Path.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Campaigns REST-API\Campaign_Path.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Path.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Campaigns REST-API\Campaign_Path.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Campaigns REST-API\Campaign_Seq"
+              componentClassID="Microsoft.ManagedComponentHost"
+              contactInfo="Loads data into an ADO.NET-compliant database that uses a database table or view. Load data into a new or existing table. For example, use an ADO.NET provider for ODBC to load data into an ODBC destination.;Microsoft Corporation; Microsoft SQL Server; © Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;2"
+              description="Loads data into an ADO.NET-compliant database that uses a database table or view. Load data into a new or existing table. For example, use an ADO.NET provider for ODBC to load data into an ODBC destination."
+              name="Campaign_Seq"
+              usesDispositions="true"
+              version="2">
+              <properties>
+                <property
+                  dataType="System.String"
+                  description="The Destination database table name."
+                  expressionType="Notify"
+                  name="TableOrViewName"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">"Campaign_Seq2"</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specify the number of rows per batch. The default is 0 which uses the same size as SSIS internal buffer. "
+                  expressionType="Notify"
+                  name="BatchSize">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out. A value of 0 indicates infinite time-out. "
+                  expressionType="Notify"
+                  name="CommandTimeout">30</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Specifies whether to use the SqlBulkCopy interface to improve the performance of bulk insert operations. Only certain providers support this interface."
+                  expressionType="Notify"
+                  name="UseBulkInsertWhenPossible">true</property>
+                <property
+                  dataType="System.String"
+                  name="UserComponentTypeName">Microsoft.ADONETDestination</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Campaigns REST-API\Campaign_Seq.Connections[IDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[tsp2.database.windows.net.tsp.tsp2-011]"
+                  connectionManagerRefId="Package.ConnectionManagers[tsp2.database.windows.net.tsp.tsp2-011]"
+                  description="Managed connection manager"
+                  name="IDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input]"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="ADO NET Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].Columns[_JSON]"
+                      cachedDataType="nText"
+                      cachedName="_JSON"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].ExternalColumns[_JSON]"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[_JSON]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].Columns[_RowIndex]"
+                      cachedDataType="i4"
+                      cachedName="_RowIndex"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].ExternalColumns[_RowIndex]"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[_RowIndex]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].Columns[_ParentKeyField]"
+                      cachedDataType="i4"
+                      cachedName="_ParentKeyField"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].ExternalColumns[_ParentKeyField]"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[_ParentKeyField]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].Columns[id]"
+                      cachedDataType="i8"
+                      cachedName="id"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].ExternalColumns[id]"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[id]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].Columns[name]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="name"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].ExternalColumns[name]"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[name]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].Columns[type]"
+                      cachedDataType="wstr"
+                      cachedLength="100"
+                      cachedName="type"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].ExternalColumns[type]"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[type]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].Columns[next_item_id]"
+                      cachedDataType="i8"
+                      cachedName="next_item_id"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].ExternalColumns[next_item_id]"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[next_item_id]" />
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].Columns[previous_item_id]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="previous_item_id"
+                      externalMetadataColumnId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].ExternalColumns[previous_item_id]"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[previous_item_id]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].ExternalColumns[_JSON]"
+                      dataType="wstr"
+                      length="2147483647"
+                      name="_JSON" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].ExternalColumns[_RowIndex]"
+                      dataType="i4"
+                      name="_RowIndex" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].ExternalColumns[_ParentKeyField]"
+                      dataType="i4"
+                      name="_ParentKeyField" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].ExternalColumns[id]"
+                      dataType="i8"
+                      name="id" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].ExternalColumns[name]"
+                      dataType="wstr"
+                      length="100"
+                      name="name" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].ExternalColumns[type]"
+                      dataType="wstr"
+                      length="100"
+                      name="type" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].ExternalColumns[next_item_id]"
+                      dataType="i8"
+                      name="next_item_id" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].ExternalColumns[previous_item_id]"
+                      dataType="wstr"
+                      length="255"
+                      name="previous_item_id" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input].ExternalColumns[value]"
+                      dataType="i8"
+                      name="value" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Campaigns REST-API\Campaign_Seq.Outputs[ADO NET Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="ADO NET Destination Error Output"
+                  synchronousInputId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Campaigns REST-API\Campaign_Seq.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\Campaign_Seq.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Campaigns REST-API\Campaign_Seq.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Campaigns REST-API\JSON Extract"
+              componentClassID="Microsoft.ManagedComponentHost"
+              contactInfo="KingswaySoft Inc.; http://www.kingswaysoft.com; support@kingswaysoft.com; Copyright (c) 2011-2018 KingswaySoft Inc."
+              description="Extract column data from a JSON document."
+              name="JSON Extract"
+              usesDispositions="true"
+              version="3">
+              <properties>
+                <property
+                  containsID="true"
+                  dataType="System.Int32"
+                  description="The id of the input field that contains the Json"
+                  expressionType="Notify"
+                  name="InputJsonColumnId">#{Package\Campaigns REST-API\JSON Source.Outputs[sequences].Columns[_JSON]}</property>
+                <property
+                  dataType="System.String"
+                  description="A list of the output nodes in the Json design that are ignored."
+                  expressionType="Notify"
+                  name="IgnoredOutputs"></property>
+                <property
+                  dataType="System.String"
+                  description="The template of the expected incoming Json."
+                  expressionType="Notify"
+                  name="Design">{"jsonName":"$","dataName":"Root","type":"Object","children":[{"jsonName":"id","dataName":"id","type":"Value"},{"jsonName":"items","dataName":"items","type":"Array","children":[{"jsonName":"id","dataName":"id","type":"Value"},{"jsonName":"name","dataName":"name","type":"Value"},{"jsonName":"type","dataName":"type","type":"Value"},{"jsonName":"next_item_id","dataName":"next_item_id","type":"Value"},{"jsonName":"previous_item_id","dataName":"previous_item_id","type":"Value"}]}]}</property>
+                <property
+                  dataType="System.Int32"
+                  description="Indicates how null values are represented in the incoming JSON."
+                  expressionType="Notify"
+                  name="NullMode"
+                  typeConverter="KingswaySoft.IntegrationToolkit.ProductivityPack.JsonExtractNullMode">0</property>
+                <property
+                  dataType="System.String"
+                  name="UserComponentTypeName">KingswaySoft.IntegrationToolkit.ProductivityPack.JsonExtractComponent</property>
+              </properties>
+              <inputs>
+                <input
+                  refId="Package\Campaigns REST-API\JSON Extract.Inputs[PrimaryInput]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="FailComponent"
+                  name="PrimaryInput">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Inputs[PrimaryInput].Columns[_JSON]"
+                      cachedDataType="nText"
+                      cachedName="_JSON"
+                      lineageId="Package\Campaigns REST-API\JSON Source.Outputs[sequences].Columns[_JSON]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True" />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Campaigns REST-API\JSON Extract.Outputs[Error Output]"
+                  isErrorOut="true"
+                  name="Error Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[Error Output].Columns[ErrorOutputName]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[Error Output].Columns[ErrorOutputName]"
+                      name="ErrorOutputName" />
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[Error Output].Columns[ErrorColumnName]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[Error Output].Columns[ErrorColumnName]"
+                      name="ErrorColumnName" />
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[Error Output].Columns[ErrorMessage]"
+                      dataType="wstr"
+                      length="2048"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[Error Output].Columns[ErrorMessage]"
+                      name="ErrorMessage" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Campaigns REST-API\JSON Extract.Outputs[Root]"
+                  name="Root">
+                  <properties>
+                    <property
+                      containsID="true"
+                      dataType="System.Int32"
+                      description="The id of the parent output of this output."
+                      name="ParentId">#{Package\Campaigns REST-API\-1:invalid}</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Specifies if this is a collection of items (may only be false for the root item)."
+                      name="IsCollection">false</property>
+                    <property
+                      dataType="System.String"
+                      description="The JPath to this output in the Json document."
+                      name="JPath">$</property>
+                    <property
+                      containsID="true"
+                      dataType="System.Boolean"
+                      description="Specifies if the specified output represents an array of objects or an array of values."
+                      name="IsComplex">true</property>
+                    <property
+                      containsID="true"
+                      dataType="System.Int32"
+                      description="The id of the field that contains the fully formed JSON for the current level."
+                      expressionType="Notify"
+                      name="JsonField">#{Package\Campaigns REST-API\JSON Extract.Outputs[Root].ExternalColumns[_JSON]}</property>
+                    <property
+                      containsID="true"
+                      dataType="System.Int32"
+                      description="The id of the field that is an auto generated row index."
+                      name="RowIndexField">#{Package\Campaigns REST-API\JSON Extract.Outputs[Root].ExternalColumns[_RowIndex]}</property>
+                    <property
+                      containsID="true"
+                      dataType="System.Int32"
+                      description="The key field of this output. Used to show relationship of parent and child outputs."
+                      name="KeyField">#{Package\Campaigns REST-API\JSON Extract.Outputs[Root].ExternalColumns[_RowIndex]}</property>
+                    <property
+                      containsID="true"
+                      dataType="System.Int32"
+                      description="The key field of this outputs parent. Used to show relationship of parent and child outputs."
+                      name="ParentKeyField">#{Package\Campaigns REST-API\-1:invalid}</property>
+                  </properties>
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[Root].Columns[_JSON]"
+                      dataType="nText"
+                      externalMetadataColumnId="Package\Campaigns REST-API\JSON Extract.Outputs[Root].ExternalColumns[_JSON]"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[Root].Columns[_JSON]"
+                      name="_JSON" />
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[Root].Columns[_RowIndex]"
+                      dataType="i4"
+                      externalMetadataColumnId="Package\Campaigns REST-API\JSON Extract.Outputs[Root].ExternalColumns[_RowIndex]"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[Root].Columns[_RowIndex]"
+                      name="_RowIndex" />
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[Root].Columns[id]"
+                      dataType="i8"
+                      externalMetadataColumnId="Package\Campaigns REST-API\JSON Extract.Outputs[Root].ExternalColumns[id]"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[Root].Columns[id]"
+                      name="id" />
+                  </outputColumns>
+                  <externalMetadataColumns>
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[Root].ExternalColumns[_JSON]"
+                      dataType="nText"
+                      name="_JSON" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[Root].ExternalColumns[_RowIndex]"
+                      dataType="i4"
+                      name="_RowIndex" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[Root].ExternalColumns[id]"
+                      dataType="i8"
+                      name="id">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="The id of the parent output of this output."
+                          name="JPath">$['id']</property>
+                      </properties>
+                    </externalMetadataColumn>
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\Campaigns REST-API\JSON Extract.Outputs[items]"
+                  name="items">
+                  <properties>
+                    <property
+                      containsID="true"
+                      dataType="System.Int32"
+                      description="The id of the parent output of this output."
+                      name="ParentId">#{Package\Campaigns REST-API\JSON Extract.Outputs[Root]}</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Specifies if this is a collection of items (may only be false for the root item)."
+                      name="IsCollection">true</property>
+                    <property
+                      dataType="System.String"
+                      description="The JPath to this output in the Json document."
+                      name="JPath">$['items']</property>
+                    <property
+                      containsID="true"
+                      dataType="System.Boolean"
+                      description="Specifies if the specified output represents an array of objects or an array of values."
+                      name="IsComplex">true</property>
+                    <property
+                      containsID="true"
+                      dataType="System.Int32"
+                      description="The id of the field that contains the fully formed JSON for the current level."
+                      expressionType="Notify"
+                      name="JsonField">#{Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[_JSON]}</property>
+                    <property
+                      containsID="true"
+                      dataType="System.Int32"
+                      description="The id of the field that is an auto generated row index."
+                      name="RowIndexField">#{Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[_RowIndex]}</property>
+                    <property
+                      containsID="true"
+                      dataType="System.Int32"
+                      description="The key field of this output. Used to show relationship of parent and child outputs."
+                      name="KeyField">#{Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[_RowIndex]}</property>
+                    <property
+                      containsID="true"
+                      dataType="System.Int32"
+                      description="The key field of this outputs parent. Used to show relationship of parent and child outputs."
+                      name="ParentKeyField">#{Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[_ParentKeyField]}</property>
+                  </properties>
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[_JSON]"
+                      dataType="nText"
+                      externalMetadataColumnId="Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[_JSON]"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[_JSON]"
+                      name="_JSON" />
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[_RowIndex]"
+                      dataType="i4"
+                      externalMetadataColumnId="Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[_RowIndex]"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[_RowIndex]"
+                      name="_RowIndex" />
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[_ParentKeyField]"
+                      dataType="i4"
+                      externalMetadataColumnId="Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[_ParentKeyField]"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[_ParentKeyField]"
+                      name="_ParentKeyField" />
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[id]"
+                      dataType="i8"
+                      externalMetadataColumnId="Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[id]"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[id]"
+                      name="id" />
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[name]"
+                      dataType="wstr"
+                      externalMetadataColumnId="Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[name]"
+                      length="100"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[name]"
+                      name="name" />
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[type]"
+                      dataType="wstr"
+                      externalMetadataColumnId="Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[type]"
+                      length="100"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[type]"
+                      name="type" />
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[next_item_id]"
+                      dataType="i8"
+                      externalMetadataColumnId="Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[next_item_id]"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[next_item_id]"
+                      name="next_item_id" />
+                    <outputColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[previous_item_id]"
+                      dataType="wstr"
+                      externalMetadataColumnId="Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[previous_item_id]"
+                      length="255"
+                      lineageId="Package\Campaigns REST-API\JSON Extract.Outputs[items].Columns[previous_item_id]"
+                      name="previous_item_id" />
+                  </outputColumns>
+                  <externalMetadataColumns>
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[_JSON]"
+                      dataType="nText"
+                      name="_JSON" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[_RowIndex]"
+                      dataType="i4"
+                      name="_RowIndex" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[_ParentKeyField]"
+                      dataType="i4"
+                      name="_ParentKeyField" />
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[id]"
+                      dataType="i8"
+                      name="id">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="The id of the parent output of this output."
+                          name="JPath">$['items'][n]['id']</property>
+                      </properties>
+                    </externalMetadataColumn>
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[name]"
+                      dataType="wstr"
+                      length="100"
+                      name="name">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="The id of the parent output of this output."
+                          name="JPath">$['items'][n]['name']</property>
+                      </properties>
+                    </externalMetadataColumn>
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[type]"
+                      dataType="wstr"
+                      length="100"
+                      name="type">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="The id of the parent output of this output."
+                          name="JPath">$['items'][n]['type']</property>
+                      </properties>
+                    </externalMetadataColumn>
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[next_item_id]"
+                      dataType="i8"
+                      name="next_item_id">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="The id of the parent output of this output."
+                          name="JPath">$['items'][n]['next_item_id']</property>
+                      </properties>
+                    </externalMetadataColumn>
+                    <externalMetadataColumn
+                      refId="Package\Campaigns REST-API\JSON Extract.Outputs[items].ExternalColumns[previous_item_id]"
+                      dataType="wstr"
+                      length="255"
+                      name="previous_item_id">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="The id of the parent output of this output."
+                          name="JPath">$['items'][n]['previous_item_id']</property>
+                      </properties>
+                    </externalMetadataColumn>
+                  </externalMetadataColumns>
                 </output>
               </outputs>
             </component>
@@ -1616,7 +2567,7 @@
                   dataType="System.String"
                   description="The query string parameters that will be used in the request."
                   expressionType="Notify"
-                  name="RequestQueryStringParameters">[{"Key":"optional_properties","Value":{"IsExpression":false,"Value":"goals,sequences"}},{"Key":"access_token","Value":{"IsExpression":false,"Value":"9utq2yjjcdb7c64ha7rhpfkh"}}]</property>
+                  name="RequestQueryStringParameters">[{"Key":"optional_properties","Value":{"IsExpression":false,"Value":"goals,sequences"}},{"Key":"access_token","Value":{"IsExpression":false,"Value":"ucxnawdupfphff5mw46fz3ye"}}]</property>
                 <property
                   dataType="System.String"
                   description="The expression that determines if requests should keep being sent."
@@ -2716,10 +3667,35 @@
           </components>
           <paths>
             <path
+              refId="Package\Campaigns REST-API.Paths[goals]"
+              endId="Package\Campaigns REST-API\Campaign_Goal.Inputs[ADO NET Destination Input]"
+              name="goals"
+              startId="Package\Campaigns REST-API\JSON Source.Outputs[goals]" />
+            <path
               refId="Package\Campaigns REST-API.Paths[items]"
-              endId="Package\Campaigns REST-API\ADO NET Destination.Inputs[ADO NET Destination Input]"
+              endId="Package\Campaigns REST-API\Campaign_Item.Inputs[ADO NET Destination Input]"
               name="items"
               startId="Package\Campaigns REST-API\JSON Source.Outputs[items]" />
+            <path
+              refId="Package\Campaigns REST-API.Paths[items1]"
+              endId="Package\Campaigns REST-API\Campaign_Seq.Inputs[ADO NET Destination Input]"
+              name="items"
+              startId="Package\Campaigns REST-API\JSON Extract.Outputs[items]" />
+            <path
+              refId="Package\Campaigns REST-API.Paths[paths]"
+              endId="Package\Campaigns REST-API\Campaign_Path.Inputs[ADO NET Destination Input]"
+              name="paths"
+              startId="Package\Campaigns REST-API\JSON Source.Outputs[paths]" />
+            <path
+              refId="Package\Campaigns REST-API.Paths[Root]"
+              endId="Package\Campaigns REST-API\Campaign.Inputs[ADO NET Destination Input]"
+              name="Root"
+              startId="Package\Campaigns REST-API\JSON Source.Outputs[Root]" />
+            <path
+              refId="Package\Campaigns REST-API.Paths[sequences]"
+              endId="Package\Campaigns REST-API\JSON Extract.Inputs[PrimaryInput]"
+              name="sequences"
+              startId="Package\Campaigns REST-API\JSON Source.Outputs[sequences]" />
           </paths>
         </pipeline>
       </DTS:ObjectData>
@@ -8955,62 +9931,248 @@
     design-time-name="Package\Campaigns REST-API">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="139.5,42"
           Id="Package\Campaigns REST-API\JSON Source"
-          TopLeft="129.857142857143,70.1428571428571" />
+          TopLeft="187.77380952381,70.1428571428571" />
         <NodeLayout
-          Size="179,42"
-          Id="Package\Campaigns REST-API\ADO NET Destination"
-          TopLeft="230.75,147.5" />
+          Size="130,42"
+          Id="Package\Campaigns REST-API\Campaign_Item"
+          TopLeft="46,151.583333333333" />
+        <NodeLayout
+          Size="130,42"
+          Id="Package\Campaigns REST-API\Campaign_Path"
+          TopLeft="158.5,196.166666666667" />
         <EdgeLayout
           Id="Package\Campaigns REST-API.Paths[items]"
-          TopLeft="199.607142857143,112.142857142857">
+          TopLeft="213.690476190476,112.142857142857">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="120.642857142857,35.3571428571429"
+              EndConnector="-102.690476190476,39.4404761904762"
               Start="0,0"
-              End="120.642857142857,27.8571428571429">
+              End="-102.690476190476,31.9404761904762">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,13.6785714285715" />
+                    End="0,6.68465861954539" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,13.6785714285715"
-                    Point2="0,17.6785714285715"
-                    Point3="4,17.6785714285715" />
+                    Point1="0,6.68465861954539"
+                    Point2="0,10.6846586195454"
+                    Point3="-4,10.6846586195454" />
                   <mssgle:LineSegment
-                    End="116.642857142857,17.6785714285715" />
+                    End="-98.6904761904763,10.6846586195454" />
                   <mssgle:CubicBezierSegment
-                    Point1="116.642857142857,17.6785714285715"
-                    Point2="120.642857142857,17.6785714285715"
-                    Point3="120.642857142857,21.6785714285715" />
+                    Point1="-98.6904761904763,10.6846586195454"
+                    Point2="-102.690476190476,10.6846586195454"
+                    Point3="-102.690476190476,14.6846586195454" />
                   <mssgle:LineSegment
-                    End="120.642857142857,27.8571428571429" />
+                    End="-102.690476190476,31.9404761904762" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="39.0401981026785,22.6785714285715,42.5624609375,16"
+              BoundingBox="-63.8164099702382,15.6846586195454,24.94234375,9.451171875"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Campaigns REST-API.Paths[paths]"
+          TopLeft="235.607142857143,112.142857142857">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-12.107142857143,84.0238095238096"
+              Start="0,0"
+              End="-12.107142857143,76.5238095238096">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,30.1811953697142" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,30.1811953697142"
+                    Point2="0,34.1811953697142"
+                    Point3="-4,34.1811953697142" />
+                  <mssgle:LineSegment
+                    End="-8.10714285714303,34.1811953697142" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-8.10714285714303,34.1811953697142"
+                    Point2="-12.107142857143,34.1811953697142"
+                    Point3="-12.107142857143,38.1811953697142" />
+                  <mssgle:LineSegment
+                    End="-12.107142857143,76.5238095238096" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-18.7077706473215,39.1811953697142,25.3083984375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="130,42"
+          Id="Package\Campaigns REST-API\Campaign_Goal"
+          TopLeft="246.666666666667,244.25" />
+        <EdgeLayout
+          Id="Package\Campaigns REST-API.Paths[goals]"
+          TopLeft="257.52380952381,112.142857142857">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="54.142857142857,132.107142857143"
+              Start="0,0"
+              End="54.142857142857,124.607142857143">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,62.0535714285714" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,62.0535714285714"
+                    Point2="0,66.0535714285714"
+                    Point3="4,66.0535714285714" />
+                  <mssgle:LineSegment
+                    End="50.142857142857,66.0535714285714" />
+                  <mssgle:CubicBezierSegment
+                    Point1="50.142857142857,66.0535714285714"
+                    Point2="54.142857142857,66.0535714285714"
+                    Point3="54.142857142857,70.0535714285714" />
+                  <mssgle:LineSegment
+                    End="54.142857142857,124.607142857143" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="14.8292410714285,71.0535714285714,24.484375,11.6630859375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="125.5,42"
+          Id="Package\Campaigns REST-API\Campaign"
+          TopLeft="322.5,192.916666666667" />
+        <EdgeLayout
+          Id="Package\Campaigns REST-API.Paths[Root]"
+          TopLeft="279.440476190476,112.142857142857">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="105.809523809524,80.7738095238096"
+              Start="0,0"
+              End="105.809523809524,73.2738095238096">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,28.8590833923931" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,28.8590833923931"
+                    Point2="0,32.8590833923931"
+                    Point3="4,32.8590833923931" />
+                  <mssgle:LineSegment
+                    End="101.809523809524,32.8590833923931" />
+                  <mssgle:CubicBezierSegment
+                    Point1="101.809523809524,32.8590833923931"
+                    Point2="105.809523809524,32.8590833923931"
+                    Point3="105.809523809524,36.8590833923931" />
+                  <mssgle:LineSegment
+                    End="105.809523809524,73.2738095238096" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="42.0733751860118,37.8590833923931,21.6627734375,9.421875"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="130,42"
+          Id="Package\Campaigns REST-API\Campaign_Seq"
+          TopLeft="398.75,244.166666666667" />
+        <NodeLayout
+          Size="140,42"
+          Id="Package\Campaigns REST-API\JSON Extract"
+          TopLeft="511.25,187.083333333333" />
+        <EdgeLayout
+          Id="Package\Campaigns REST-API.Paths[sequences]"
+          TopLeft="301.357142857143,112.142857142857">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="279.892857142857,74.9404761904763"
+              Start="0,0"
+              End="279.892857142857,67.4404761904763">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16.3018188982911" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,16.3018188982911"
+                    Point2="0,20.3018188982911"
+                    Point3="4,20.3018188982911" />
+                  <mssgle:LineSegment
+                    End="275.892857142857,20.3018188982911" />
+                  <mssgle:CubicBezierSegment
+                    Point1="275.892857142857,20.3018188982911"
+                    Point2="279.892857142857,20.3018188982911"
+                    Point3="279.892857142857,24.3018188982911" />
+                  <mssgle:LineSegment
+                    End="279.892857142857,67.4404761904763" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="116.203772321429,25.3018188982911,47.4853125,9.6171875"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Campaigns REST-API.Paths[items1]"
+          TopLeft="511.25,208.083333333333">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-47.5000000000001,36.0833333333333"
+              Start="0,0"
+              End="-47.5000000000001,28.5833333333333">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="-43.5000000000001,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-43.5000000000001,0"
+                    Point2="-47.5000000000001,0"
+                    Point3="-47.5000000000001,4" />
+                  <mssgle:LineSegment
+                    End="-47.5000000000001,28.5833333333333" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-59.9711718750001,-15.451171875,24.94234375,9.451171875"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Campaigns REST-API\ADO NET Destination">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
   <TaskHost
     design-time-name="Package\FileBoxList">
     <LayoutInfo>
@@ -9185,6 +10347,46 @@
   </TaskHost>
   <PipelineComponentMetadata
     design-time-name="Package\Response x ZIP\ADO NET Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Campaigns REST-API\Campaign_Item">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Campaigns REST-API\Campaign_Path">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Campaigns REST-API\Campaign_Goal">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Campaigns REST-API\Campaign">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Campaigns REST-API\Campaign_Seq">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
